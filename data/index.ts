@@ -114,7 +114,7 @@ export const testimonials = [
   {
     quote: "Collaborating with Rahul was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rahul's enthusiasm for every aspect of development truly stands out. It was great working with you, and I am confident that together we will achieve even greater things in the future. If you're looking to elevate your website and brand, Rahul is the ideal partner.",
     name: "Aditya Kumar",
-    title: "IBM intern",
+    title: "Fullstack Developer, Digiwee",
     imageUrl: "/adi.png"
   },
   {
