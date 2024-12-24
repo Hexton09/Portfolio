@@ -88,11 +88,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Will be updated",
-    des: "Working on it",
-    img: "/p3.svg",
+    title: "RAM API",
+    des: "API Rate Limiter",
+    img: "/ph3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "",
+    link: "https://github.com/Hexton09/RAM-API-rate-limiter",
   },
   {
     id: 4,
