@@ -96,11 +96,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Will be updated",
-    des: "Working on it",
+    title: "Imagify",
+    des: "AI-SAAS-Platform",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/gsap.svg"],
+    link: "https://imagify-beta-woad.vercel.app/",
   },
 ];
 
